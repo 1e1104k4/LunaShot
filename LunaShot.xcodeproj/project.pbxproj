@@ -13,6 +13,7 @@
 		2EA9A58D2B35156D00E2CF98 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9A58C2B35156D00E2CF98 /* Bundle-Decodable.swift */; };
 		2EA9A58F2B3635FD00E2CF98 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9A58E2B3635FD00E2CF98 /* Mission.swift */; };
 		2EA9A5952B3B891C00E2CF98 /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9A5942B3B891C00E2CF98 /* Color-Theme.swift */; };
+		2EA9A5972B3E195A00E2CF98 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9A5962B3E195A00E2CF98 /* MissionView.swift */; };
 		2EE24F272B33B0E900A73FD5 /* LunaShotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE24F262B33B0E900A73FD5 /* LunaShotApp.swift */; };
 		2EE24F292B33B0E900A73FD5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE24F282B33B0E900A73FD5 /* ContentView.swift */; };
 		2EE24F2B2B33B0EA00A73FD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EE24F2A2B33B0EA00A73FD5 /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 		2EA9A58C2B35156D00E2CF98 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		2EA9A58E2B3635FD00E2CF98 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
 		2EA9A5942B3B891C00E2CF98 /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
+		2EA9A5962B3E195A00E2CF98 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		2EE24F232B33B0E900A73FD5 /* LunaShot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LunaShot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EE24F262B33B0E900A73FD5 /* LunaShotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LunaShotApp.swift; sourceTree = "<group>"; };
 		2EE24F282B33B0E900A73FD5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 			children = (
 				2EE24F262B33B0E900A73FD5 /* LunaShotApp.swift */,
 				2EE24F282B33B0E900A73FD5 /* ContentView.swift */,
+				2EA9A5962B3E195A00E2CF98 /* MissionView.swift */,
 				2EA9A58E2B3635FD00E2CF98 /* Mission.swift */,
 				2EA9A58C2B35156D00E2CF98 /* Bundle-Decodable.swift */,
 				2EA9A58A2B35108C00E2CF98 /* Astronaut.swift */,
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2EA9A5972B3E195A00E2CF98 /* MissionView.swift in Sources */,
 				2EA9A58B2B35108C00E2CF98 /* Astronaut.swift in Sources */,
 				2EA9A5952B3B891C00E2CF98 /* Color-Theme.swift in Sources */,
 				2EE24F292B33B0E900A73FD5 /* ContentView.swift in Sources */,
