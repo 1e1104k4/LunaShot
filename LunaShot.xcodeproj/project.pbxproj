@@ -15,6 +15,7 @@
 		2EA9A5952B3B891C00E2CF98 /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9A5942B3B891C00E2CF98 /* Color-Theme.swift */; };
 		2EA9A5972B3E195A00E2CF98 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9A5962B3E195A00E2CF98 /* MissionView.swift */; };
 		2EA9A5992B45E78200E2CF98 /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9A5982B45E78200E2CF98 /* AstronautView.swift */; };
+		2EA9A59B2B460E0800E2CF98 /* CustomDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9A59A2B460E0800E2CF98 /* CustomDivider.swift */; };
 		2EE24F272B33B0E900A73FD5 /* LunaShotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE24F262B33B0E900A73FD5 /* LunaShotApp.swift */; };
 		2EE24F292B33B0E900A73FD5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE24F282B33B0E900A73FD5 /* ContentView.swift */; };
 		2EE24F2B2B33B0EA00A73FD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EE24F2A2B33B0EA00A73FD5 /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 		2EA9A5942B3B891C00E2CF98 /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		2EA9A5962B3E195A00E2CF98 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		2EA9A5982B45E78200E2CF98 /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
+		2EA9A59A2B460E0800E2CF98 /* CustomDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDivider.swift; sourceTree = "<group>"; };
 		2EE24F232B33B0E900A73FD5 /* LunaShot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LunaShot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EE24F262B33B0E900A73FD5 /* LunaShotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LunaShotApp.swift; sourceTree = "<group>"; };
 		2EE24F282B33B0E900A73FD5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				2EE24F262B33B0E900A73FD5 /* LunaShotApp.swift */,
 				2EE24F282B33B0E900A73FD5 /* ContentView.swift */,
 				2EA9A5962B3E195A00E2CF98 /* MissionView.swift */,
+				2EA9A59A2B460E0800E2CF98 /* CustomDivider.swift */,
 				2EA9A5982B45E78200E2CF98 /* AstronautView.swift */,
 				2EA9A58E2B3635FD00E2CF98 /* Mission.swift */,
 				2EA9A58C2B35156D00E2CF98 /* Bundle-Decodable.swift */,
@@ -171,6 +174,7 @@
 				2EE24F272B33B0E900A73FD5 /* LunaShotApp.swift in Sources */,
 				2EA9A58F2B3635FD00E2CF98 /* Mission.swift in Sources */,
 				2EA9A58D2B35156D00E2CF98 /* Bundle-Decodable.swift in Sources */,
+				2EA9A59B2B460E0800E2CF98 /* CustomDivider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
