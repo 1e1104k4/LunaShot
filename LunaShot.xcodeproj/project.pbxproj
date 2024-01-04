@@ -78,6 +78,9 @@
 				2EE24F262B33B0E900A73FD5 /* LunaShotApp.swift */,
 				2EE24F282B33B0E900A73FD5 /* ContentView.swift */,
 				2EA9A5962B3E195A00E2CF98 /* MissionView.swift */,
+				2EA9A5A02B462BEF00E2CF98 /* GridLayout.swift */,
+				2EA9A5A22B462C0400E2CF98 /* ListLayout.swift */,
+				2EA9A59E2B460F5400E2CF98 /* CrewRoster.swift */,
 				2EA9A59A2B460E0800E2CF98 /* CustomDivider.swift */,
 				2EA9A5982B45E78200E2CF98 /* AstronautView.swift */,
 				2EA9A58E2B3635FD00E2CF98 /* Mission.swift */,
@@ -88,9 +91,6 @@
 				2EA9A4D62B34EE6500E2CF98 /* missions.json */,
 				2EE24F2A2B33B0EA00A73FD5 /* Assets.xcassets */,
 				2EE24F2C2B33B0EA00A73FD5 /* Preview Content */,
-				2EA9A59E2B460F5400E2CF98 /* CrewRoster.swift */,
-				2EA9A5A02B462BEF00E2CF98 /* GridLayout.swift */,
-				2EA9A5A22B462C0400E2CF98 /* ListLayout.swift */,
 			);
 			path = LunaShot;
 			sourceTree = "<group>";
