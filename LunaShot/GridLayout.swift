@@ -51,9 +51,6 @@ struct GridLayout: View {
             }
             .padding([.horizontal, .bottom])
         }
-        .navigationTitle("LunaShot")
-        .background(.darkBackground)
-        .preferredColorScheme(.dark)
     }
 }
 
