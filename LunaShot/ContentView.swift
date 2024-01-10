@@ -37,6 +37,9 @@ struct ContentView: View {
             .navigationTitle("LunaShot")
             .background(.darkBackground)
             .preferredColorScheme(.dark)
+            .navigationDestination(for: Mission.self) { mission in
+                MissionView(mission: mission, astronauts: astronauts)
+            }
         }
     }
 }
