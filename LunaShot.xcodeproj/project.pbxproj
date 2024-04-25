@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E4E09942BDAD8FE0080F053 /* missions.json in Resources */ = {isa = PBXBuildFile; fileRef = 2E4E09932BDAD8FE0080F053 /* missions.json */; };
 		2EA9A4D72B34EE6500E2CF98 /* astronauts.json in Resources */ = {isa = PBXBuildFile; fileRef = 2EA9A4D52B34EE6500E2CF98 /* astronauts.json */; };
-		2EA9A4D82B34EE6500E2CF98 /* missions.json in Resources */ = {isa = PBXBuildFile; fileRef = 2EA9A4D62B34EE6500E2CF98 /* missions.json */; };
 		2EA9A58B2B35108C00E2CF98 /* Astronaut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9A58A2B35108C00E2CF98 /* Astronaut.swift */; };
 		2EA9A58D2B35156D00E2CF98 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9A58C2B35156D00E2CF98 /* Bundle-Decodable.swift */; };
 		2EA9A58F2B3635FD00E2CF98 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9A58E2B3635FD00E2CF98 /* Mission.swift */; };
@@ -26,8 +26,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E4E09932BDAD8FE0080F053 /* missions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = missions.json; sourceTree = "<group>"; };
 		2EA9A4D52B34EE6500E2CF98 /* astronauts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = astronauts.json; sourceTree = "<group>"; };
-		2EA9A4D62B34EE6500E2CF98 /* missions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = missions.json; sourceTree = "<group>"; };
 		2EA9A58A2B35108C00E2CF98 /* Astronaut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Astronaut.swift; sourceTree = "<group>"; };
 		2EA9A58C2B35156D00E2CF98 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		2EA9A58E2B3635FD00E2CF98 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
@@ -88,7 +88,7 @@
 				2EA9A58A2B35108C00E2CF98 /* Astronaut.swift */,
 				2EA9A5942B3B891C00E2CF98 /* Color-Theme.swift */,
 				2EA9A4D52B34EE6500E2CF98 /* astronauts.json */,
-				2EA9A4D62B34EE6500E2CF98 /* missions.json */,
+				2E4E09932BDAD8FE0080F053 /* missions.json */,
 				2EE24F2A2B33B0EA00A73FD5 /* Assets.xcassets */,
 				2EE24F2C2B33B0EA00A73FD5 /* Preview Content */,
 			);
@@ -163,7 +163,7 @@
 			files = (
 				2EA9A4D72B34EE6500E2CF98 /* astronauts.json in Resources */,
 				2EE24F2E2B33B0EA00A73FD5 /* Preview Assets.xcassets in Resources */,
-				2EA9A4D82B34EE6500E2CF98 /* missions.json in Resources */,
+				2E4E09942BDAD8FE0080F053 /* missions.json in Resources */,
 				2EE24F2B2B33B0EA00A73FD5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
